@@ -41,7 +41,9 @@
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used seperated by space )
 
+# Deploy to Railway
 
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/me4oeP?referralCode=v2HVEg)
 ## Deploy
 You can deploy this bot anywhere.
 
